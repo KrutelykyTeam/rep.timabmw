@@ -1,3 +1,23 @@
 .sahyr{ background-color: bisque;
-
+    display: flex;
+    padding-top:50px ;
+    padding-left: 181px;
+    gap: 76px;
+}
+.capucapuhinoosasino{
+    width: 116px;
+    height: 106px;
+}
+.capucapuhino{
+    width: 114px;
+    height: 138px;
+}
+.capu{
+    width: 113px;
+    height: 138px;
+}
+.on{
+    display: flex;
+}
+.e{
 }
